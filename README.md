@@ -25,9 +25,9 @@ Bandit is a beginner CTF (Capture The Flag) challenge focused on Linux basics, f
 ## Screenshots:
 | Level | Screenshot |
 |-------|------------|
-| Level 0 | ![Level 0](screenshots/level0.png) |
-| Level 1 | ![Level 1](screenshots/level1.png) |
-| Level 2 | ![Level 2](screenshots/level2.png) |
+| Level 0 | ![Level 0](Screenshots/Bandit0.png) |
+| Level 1 | ![Level 1](Screenshots/Bandit1.png) |
+| Level 2 | ![Level 2](Screenshots/Bandit15.png) |
 
 ## Solutions:
 - Check [solutions.txt](solutions.txt) for all commands used during the challenge.
